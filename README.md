@@ -1,2 +1,1 @@
-# Robot
-Some of the courses projects I did during school
+# Mini Robot Design and Production Practice
